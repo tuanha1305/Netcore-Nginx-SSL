@@ -44,12 +44,13 @@ nvm install v16
 Next, we install pm2 and lauch service dot net
 ```bash
 npm install pm2 -g
-# run 
-pm2 run ecosytem.config.js
+# start 
+pm2 start ecosytem.config.js
 ```
 
 Finaly, we config nginx + ssl
-create file ```/etc/nginx/conf.d/domain.conf``` 
+
+Create new file ```/etc/nginx/conf.d/domain.conf``` 
 ```nginx
 server {
         listen 80;
