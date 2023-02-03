@@ -1,0 +1,7 @@
+/var/www/AspNetCoreApp/AspNetCoreApp
+/var/www/AspNetCoreApp/appsettings.Development.json
+/var/www/AspNetCoreApp/appsettings.json
+/var/www/AspNetCoreApp/AspNetCoreApp.dll
+/var/www/AspNetCoreApp/AspNetCoreApp.deps.json
+/var/www/AspNetCoreApp/AspNetCoreApp.runtimeconfig.json
+/var/www/AspNetCoreApp/AspNetCoreApp.pdb
